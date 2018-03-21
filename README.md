@@ -1,2 +1,2 @@
 # Ultrasonic
-library for Ultrasonic Sensor HC-SR04
+Arduino library for Ultrasonic Sensor HC-SR04
